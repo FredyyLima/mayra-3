@@ -26,12 +26,6 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Lonely - v4.10.0
-  * Template URL: https://bootstrapmade.com/free-html-bootstrap-template-lonely/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body>
@@ -646,7 +640,7 @@
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-html-bootstrap-template-lonely/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Editado por <a href="https://linktr.ee/fredyycarneiro">Fredy Carneiro</a>
       </div>
     </div>
   </footer><!-- End  Footer -->
